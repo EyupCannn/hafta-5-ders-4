@@ -1,0 +1,22 @@
+#kapsayici{
+  background-color: gray;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.kutu1,.kutu2,.kutu3{
+  width: 342px;
+  background-color: #a5ffb9;
+  margin: 5px;
+}
+
+.kutu1{
+  height: 80px;
+}
+.kutu2{
+  height: 110px;
+}
+.kutu3{
+  height: 40px;
+}
